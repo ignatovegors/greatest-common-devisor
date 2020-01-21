@@ -1,5 +1,5 @@
 # greatest-common-devisor
-Testing GitHub using the greatest common devisor problem
+Solutions of different problems on the greatest common devisor topic
 
 <b>gcd-simple</b> counts the greatest common devisor of a and b using the simple algorithm
 
