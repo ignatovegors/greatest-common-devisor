@@ -1,5 +1,5 @@
 # greatest-common-devisor
-Solutions of different problems on the greatest common devisor topic
+Solutions of different problems related to greatest common devisor topic
 
 <b>gcd-simple</b> counts the greatest common devisor of a and b using the simple algorithm
 
